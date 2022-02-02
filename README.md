@@ -9,3 +9,7 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 - Drop down custom text to speech
 - Speaks the text typed in
 - Change voices and accents
+
+## You can View this project at the following link:
+
+- https://jayfullstack.github.io/speach-text-reader/
